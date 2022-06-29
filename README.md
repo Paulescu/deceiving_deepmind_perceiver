@@ -8,8 +8,9 @@
 ## Table of Contents
 
 1. [What is this repo about?](#what-is-this-repo-about)
-2. [Notebook](#notebook)
-3. [Let's connect!](#lets-connect)  
+2. [Blog post](#blog-post)
+3. [Notebook](#notebook)
+4. [Let's connect!](#lets-connect)  
 
 ## What is this repo about?
 
@@ -23,6 +24,9 @@ Well, you are WRONG.
 
 In this repo, we will learn how to fool a state-of-the-art model, like DeepMind Perceiver IO, through a hands-on example, in less than 10 minutes.
 
+
+## Blog post
+📝 [How to fool DeepMind Perceiver in 10 minutes](http://datamachines.xyz/2022/06/29/how-to-fool-deepmind-perceiver-in-10-minutes/)
 
 ## Notebook
 You can run this tutorial on your local computer or directly on Colab.
