@@ -35,7 +35,7 @@ You can run this tutorial on your local computer or directly on Colab.
 Create a virtual environment for Python >= 3.8, and activate it:
 ```
 $ (venv) git clone https://github.com/Paulescu/fooling_deepmind.git
-$ pip install jupyter
+$ (venv) pip install jupyter
 $ (venv) jupyter notebook
 ```
 
