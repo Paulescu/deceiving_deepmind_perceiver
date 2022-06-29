@@ -44,7 +44,7 @@ Then open [the notebook](how_to_fool_deepmind_perceiver_in_10_minutes.ipynb)
 ### To run on Google Colab
 Click on this button
 
-<a href="https://colab.research.google.com/github/Paulescu/fooling_deepmind/blob/main/notebooks/how_to_fool_deepmind_perceiver_in_10_minutes.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="200"></a>
+<a href="https://colab.research.google.com/github/Paulescu/fooling_deepmind/blob/main/how_to_fool_deepmind_perceiver_in_10_minutes.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="200"></a>
 ## Let's connect
 
 If you want to learn more about real-world ML topics and become a better data scientist
