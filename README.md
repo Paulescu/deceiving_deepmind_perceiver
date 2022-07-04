@@ -1,9 +1,9 @@
 <div align="center">
-<h1>How to fool DeepMind Perceiver in 10 minutes</h1>
-<h2>The gap between research and real-world safe AI</h2>
+<h1>The Gap Between Research And Robust AI</h1>
+<h2>even the most advanced ai models have their flaws</h2>
 </div>
 
-![](http://datamachines.xyz/wp-content/uploads/2022/06/fusta-1536x1152.jpeg)
+![](http://datamachines.xyz/wp-content/uploads/2022/07/miquel-parera-yTy-52zDYjM-unsplash.jpg)
 
 ## Table of Contents
 
