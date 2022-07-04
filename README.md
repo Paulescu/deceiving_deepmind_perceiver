@@ -1,6 +1,5 @@
 <div align="center">
 <h1>The Gap Between Research And Robust AI</h1>
-<h2>even the most advanced ai models have their flaws</h2>
 </div>
 
 ![](http://datamachines.xyz/wp-content/uploads/2022/07/miquel-parera-yTy-52zDYjM-unsplash.jpg)
@@ -26,7 +25,7 @@ In this repo, we will learn how to fool a state-of-the-art model, like DeepMind 
 
 
 ## Blog post
-📝 [How to fool DeepMind Perceiver in 10 minutes](http://datamachines.xyz/2022/06/29/how-to-fool-deepmind-perceiver-in-10-minutes/)
+📝 [The Gap Between Research And Robust AI](http://datamachines.xyz/2022/06/29/how-to-fool-deepmind-perceiver-in-10-minutes/)
 
 ## Notebook
 You can run this tutorial on your local computer or directly on Colab.
