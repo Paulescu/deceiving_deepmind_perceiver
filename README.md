@@ -44,11 +44,12 @@ Then open [the notebook](how_to_fool_deepmind_perceiver_in_10_minutes.ipynb)
 Click on this button
 
 <a href="https://colab.research.google.com/github/Paulescu/fooling_deepmind/blob/main/how_to_fool_deepmind_perceiver_in_10_minutes.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="200"></a>
+
 ## Let's connect
 
 If you want to learn more about real-world ML topics and become a better data scientist
 
-👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
+👉 [Subscribe](https://datamachines.xyz/subscribe) to the datamachines newsletter.
 
 👉🏽 Follow me on [Twitter](https://twitter.com/paulabartabajo_) and/or [LinkedIn](https://www.linkedin.com/in/pau-labarta-bajo-4432074b/)
 
