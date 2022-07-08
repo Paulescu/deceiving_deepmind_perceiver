@@ -13,22 +13,22 @@
 
 ## What is this repo about?
 
-Do you think that cutting-edge Deep Learning models, like DeepMind Perceiver, are bullet-proof systems, that are impossible to fool?
+Would you say Deep Learning models have become so good, that robust AI systems are no longer a dream, but a reality?
 
-Or that you can safely use these models in any real-world problem, like self-driving cars?
+Do you think you can safely use the latest models published by researchers in any real-world problem, like self-driving cars? Or face recognition software at airports?
 
-Do you think it is impossible to fool a Deep Learning model, like DeepMind Perceiver, developed by some of the brightest AI researchers in the world?
+Convinced that machines are already better than humans at processing and understanding images?
 
-Well, you are WRONG.
+I was too. Until I realized it is possible to deceive a state-of-the-art model, like DeepMind Perceiver, with a few lines of code
 
-In this repo, we will learn how to fool a state-of-the-art model, like DeepMind Perceiver IO, through a hands-on example, in less than 10 minutes.
+In this repo, I show you how.
 
 
 ## Blog post
 📝 [The Gap Between Research And Robust AI](https://datamachines.xyz/2022/07/01/the-gap-between-research-and-robust-ai/)
 
 ## Notebook
-You can run this tutorial on your local computer or directly on Colab.
+You can run this tutorial on your local computer or directly on [Colab](https://colab.research.google.com/github/Paulescu/fooling_deepmind/blob/main/how_to_fool_deepmind_perceiver_in_10_minutes.ipynb).
 
 ### To run locally
 Create a virtual environment for Python >= 3.8, and activate it:
